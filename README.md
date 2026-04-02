@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Marcos%20Matsuda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Software%20Engineer%20%7C%20React%20Native%20%26%20Fullstack%20%7C%20AI%20Integration&descSize=16&descAlignY=52"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Marcos%20Matsuda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Software%20Engineer%20|%20React%20Native%20%26%20Fullstack%20|%20AI%20Integration&descSize=16&descAlignY=52)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=11%2B+years+turning+ideas+into+mobile+experiences;Building+apps+that+work+offline%2C+online+%26+everything+in+between;Now+adding+AI+to+the+mix+%F0%9F%A7%A0)](https://github.com/MarcosMatsuda)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=35&lines=11%2B+years+turning+ideas+into+mobile+experiences+%F0%9F%93%B1;Building+apps+that+work+offline%2C+online+and+everything+in+between+%F0%9F%94%84;Now+adding+AI+to+the+mix+%F0%9F%A7%A0)](https://github.com/MarcosMatsuda)
 
 </div>
 
@@ -66,10 +66,18 @@ const marcos = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosMatsuda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMatsuda&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarcosMatsuda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarcosMatsuda&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117"/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosMatsuda&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff"/>
+<img width="100%" src="https://streak-stats.demolab.com/?user=MarcosMatsuda&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff"/>
+
+</div>
+
+## Contribution Graph
+
+<div align="center">
+
+[![Marcos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcosMatsuda&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e40)](https://github.com/MarcosMatsuda)
 
 </div>
 
@@ -100,4 +108,4 @@ const marcos = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
