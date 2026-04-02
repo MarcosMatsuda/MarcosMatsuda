@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Marcos%20Matsuda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Software%20Engineer%20|%20React%20Native%20%26%20Fullstack%20|%20AI%20Integration&descSize=16&descAlignY=52)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Marcos%20Matsuda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+</p>
 
 <div align="center">
 
