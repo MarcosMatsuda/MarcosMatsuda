@@ -14,9 +14,9 @@
 const marcos = {
   role: "Senior Software Engineer",
   experience: "11+ years",
-  focus: ["React Native", "Fullstack", "AI/LLM Integration"],
-  superpower: "Offline-first architectures that just work",
-  currentlyBuilding: "AI-powered tools that make developers' lives easier",
+  focus: ["React Native", "Fullstack Web", "AI/LLM Integration"],
+  superpower: "Offline-first mobile + AI-powered web apps",
+  currentlyBuilding: "Web apps with AI agents that actually do useful things",
   philosophy: "True sophistication lies in simplicity",
 };
 ```
@@ -30,8 +30,9 @@ const marcos = {
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Database**
 
@@ -59,9 +60,9 @@ const marcos = {
 
 ## What I Do
 
-- **Mobile Architect** — Building React Native apps with offline-first resilience using Realm & Ditto
-- **Fullstack Engineer** — End-to-end solutions with TypeScript, Node.js/NestJS, and PostgreSQL
-- **AI Builder** — Integrating LLMs (Claude, DeepSeek, Ollama) into real products, not just demos
+- **Mobile Architect** — React Native apps with offline-first resilience using Realm & Ditto
+- **Web Builder** — Full-stack web apps with React, Node.js/NestJS, and real-time features
+- **AI Engineer** — Building with LLMs (Claude, DeepSeek, Ollama) — agents, automation, smart tools
 - **Team Lead** — Mentoring devs, simplifying architectures, removing accidental complexity
 
 ## GitHub Stats
